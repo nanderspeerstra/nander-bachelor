@@ -1,4 +1,4 @@
-my @files = <C:/Users/Nander/Desktop/TiMBL/ng1_PCA*>;
+my @files = <ng1_PCA_*>;
 my $count = @files;
 
 my ($file);

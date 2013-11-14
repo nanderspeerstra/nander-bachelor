@@ -1,7 +1,7 @@
 use strict;
 use warnings;
 
-my @files = </home/nander/Desktop/timbl/*.train>;
+my @files = <*.train>;
 my $count = @files;
 
 my ($test,$proef,$file);
